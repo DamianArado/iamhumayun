@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Mohammad Humayun Khan.", "Web Developer.", "Programmer.", "Freelancer.", "Photographer"],
+      strings: ["Mohammad Humayun Khan.", "a Web Developer.", "a Programmer.", "a Software Developer.", "a Photographer."],
       typeSpeed: 100,
       loop: true,
     });
